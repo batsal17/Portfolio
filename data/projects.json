@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sarkari-sathi",
+    "title": "SarkariSathi",
+    "description": "Bilingual RAG chatbot using bge-m3 embeddings to automate Nepali government service inquiries. Includes a template engine to auto-generate official Nibedan letters, streamlining ward-office workflows.",
+    "longDescription": "SarkariSathi is a digital assistant for government works that uses BAAI/bge-m3 embeddings and a Retrieval-Augmented Generation pipeline to answer citizen queries about Nepali government services in both Nepali and English. It also auto-generates official application letters (Nibedan) from structured templates.",
+    "tags": ["Python", "TypeScript", "BAAI/bge-m3", "RAG", "Vector DB"],
+    "github": "https://github.com/batsalbhusal",
+    "demo": null,
+    "featured": true,
+    "year": 2026,
+    "stats": { "stars": 0, "forks": 0 }
+  },
+  {
+    "id": "resumatch",
+    "title": "ResuMatch",
+    "description": "AI-powered resume filtering pipeline using spaCy NER to extract skills and rank candidates via Cosine Similarity — automating HR screening and increasing matching precision.",
+    "longDescription": "ResuMatch is an NLP pipeline that parses resumes using spaCy Named Entity Recognition to extract skills, experience, and education. Candidates are ranked against job descriptions using Cosine Similarity scores, dramatically reducing manual HR review time.",
+    "tags": ["Python", "spaCy", "Scikit-learn", "NLP"],
+    "github": "https://github.com/batsalbhusal",
+    "demo": null,
+    "featured": true,
+    "year": 2025,
+    "stats": { "stars": 0, "forks": 0 }
+  },
+  {
+    "id": "homecam",
+    "title": "HomeCam",
+    "description": "IoT security system deploying YOLO object detection on legacy mobile hardware using TensorFlow Lite for edge inference — optimized for low-latency monitoring on resource-constrained devices.",
+    "longDescription": "HomeCam repurposes old Android smartphones as smart security cameras by running a quantized YOLO model via TensorFlow Lite. The system achieves real-time object detection at the edge without cloud dependency, making it accessible for low-resource environments.",
+    "tags": ["YOLO", "TensorFlow Lite", "Python", "IoT"],
+    "github": "https://github.com/batsalbhusal",
+    "demo": null,
+    "featured": true,
+    "year": 2024,
+    "stats": { "stars": 0, "forks": 0 }
+  }
+]

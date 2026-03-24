@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "building-rag-nepali-government",
+    "title": "Building a Bilingual RAG System for Nepali Government Services",
+    "excerpt": "How I used BAAI/bge-m3 embeddings and a vector database to build SarkariSathi — a chatbot that answers citizen queries about government services in both Nepali and English.",
+    "date": "2026-01-15",
+    "readingTime": "9 min",
+    "tags": ["RAG", "NLP", "Python"],
+    "featured": true
+  },
+  {
+    "slug": "yolo-tensorflow-lite-edge",
+    "title": "Running YOLO on a Budget: Edge Inference with TensorFlow Lite",
+    "excerpt": "A walkthrough of how I deployed real-time object detection on old Android hardware for HomeCam — quantization tricks, latency trade-offs, and lessons learned.",
+    "date": "2025-08-10",
+    "readingTime": "7 min",
+    "tags": ["YOLO", "TensorFlow Lite", "IoT"],
+    "featured": true
+  },
+  {
+    "slug": "nlp-resume-screening",
+    "title": "Automating Resume Screening with spaCy and Cosine Similarity",
+    "excerpt": "How I built ResuMatch — an NLP pipeline that extracts skills using Named Entity Recognition and ranks candidates against job descriptions without any LLM API costs.",
+    "date": "2025-03-22",
+    "readingTime": "6 min",
+    "tags": ["NLP", "spaCy", "Scikit-learn"],
+    "featured": false
+  },
+  {
+    "slug": "fsu-website-student-union",
+    "title": "Building a Website for 2,000+ Students: Lessons from the FSU Project",
+    "excerpt": "What I learned directing the development of the official Free Students' Union website at Pulchowk Campus — from requirements gathering with elected reps to deployment.",
+    "date": "2024-11-05",
+    "readingTime": "5 min",
+    "tags": ["Web", "Leadership", "TypeScript"],
+    "featured": false
+  }
+]
