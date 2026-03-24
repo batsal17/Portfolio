@@ -1,4 +1,4 @@
-# Alex Chen — Portfolio
+# Batsal Bhusal — Portfolio
 
 A minimal, futuristic developer portfolio built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion**.
 
